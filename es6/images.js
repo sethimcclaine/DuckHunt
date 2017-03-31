@@ -29,7 +29,7 @@ export const getImages = (render) => {
     };
 
     images.background.onload = render;
-    images.background.src = 'assets/background.png';
+    images.background.src = 'assets/background2.png';
     images.foreground.onload = render;
     images.foreground.src = 'assets/foreground.png';
     images.shells.src = 'assets/shells.png';

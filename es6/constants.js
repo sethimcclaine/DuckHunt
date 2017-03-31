@@ -1,4 +1,5 @@
 //CONSTANTS
+export const BOOSTER = 2; // the lower levels are boring, this puts level 1 and lvl x speed
 export const HEIGHT = 414; //Canvas Height
 export const WIDTH = 736; //Canvas Width
 export const XMIN = 0;
